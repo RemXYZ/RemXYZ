@@ -1,6 +1,5 @@
-## Hi there, I'm Rem - aka RemXYZ 👋
-
-## More about me
+### Hi there, I'm Rem - aka RemXYZ 👋
+More about me
 
 [Website]("azixon.com")
 
