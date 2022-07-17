@@ -2,7 +2,7 @@
 
 ## More about me
 
-[Website]("https://azixon.com")
+[Website](https://azixon.com)
 
 <!--
 **RemXYZ/RemXYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
