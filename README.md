@@ -1,4 +1,4 @@
-### Hi there, I'm Rem - aka RemXYZ 👋
+## Hi there, I'm Rem - aka RemXYZ 👋
 
 ## More about me
 
