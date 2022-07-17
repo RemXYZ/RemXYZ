@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Rem - aka RemXYZ 👋
+
+### More about me
+
+[Website]("azixon.com")
 
 <!--
 **RemXYZ/RemXYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
